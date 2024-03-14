@@ -1,0 +1,2 @@
+# contracts-hardhat
+contract code
